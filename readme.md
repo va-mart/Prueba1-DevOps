@@ -1,0 +1,2 @@
+## Porque es una metodología que utiliza varias ramas por lo que su estructura nos llama la atención
+## Tiende a ser más ordenado y es la que hemos visto más claramente en clase en comparación a la metodología TBD que es de una sola rama. Además, entendemos mejor los comando de consola git al haber trabajado con ellos en primer año.
